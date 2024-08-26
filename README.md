@@ -1,1 +1,3 @@
-Creating a simple shell
+Simple Shell
+
+This is a simple UNIX command interpreter.
