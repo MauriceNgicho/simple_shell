@@ -46,5 +46,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-This project was done by [Maurice Ngicho](https://github.com/MauriceNgicho) and [Chijioke Nnabueze](
-https://github.com/CJay_Cipher).
+This project was done by [Maurice Ngicho](https://github.com/MauriceNgicho) and [Chijioke Nnabueze](https://github.com/CJay-Cipher).
